@@ -21,7 +21,7 @@ The goal of this project is to implement multi-class classification to predict c
 - LightGBM
 
 ## Data
-The data is from Personalized Medicine: Redefining Cancer Prognosis and Treatment. (https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data. There are two files in this data:
+The data is from [Personalized Medicine: Redefining Cancer Prognosis and Treatment](https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data). There are two files in this data:
 - `trainining_variants.csv` - This data contains information about the genetic mutations in the cancer cells.
 - `training_text.csv` - This data contains clinical evidence that human experts/pathologists use to classify the genetic mutation.
 - There are nine categories with their corresponding class labels (1 to 9):
